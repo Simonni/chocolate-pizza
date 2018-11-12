@@ -1,0 +1,82 @@
+
+nav{
+  width: 100%;
+  display: inline-block;
+  background-color: antiquewhite;
+  margin:0;
+  height:6em;
+}
+
+h1{ display: inline-block; 
+  float:left; 
+  margin-top: 1.2em;
+}
+
+h2{display: inline-block;
+  float: left;
+  margin-left: 0px; 
+  margin-top:2em;
+}
+
+h3{display: inline-block;
+  float: left;
+  margin-top: 2em;
+  margin-left: 12em;
+}
+
+h4{ 
+  display: inline-block;  
+  margin-left: 23.8em;
+  margin-top:4.5em;
+}
+
+/*..............................................*/
+ 
+p{font-size: 1.5em;
+  color:brown;
+ 
+}
+
+label{font-size: 1em;
+color:burlywood;
+}
+
+.main{
+  margin-top: 0em;
+width:80%;
+height: 50%; 
+}
+
+h5 {
+  display: inline-block;
+    float: left;
+}
+#capture2{
+  display:inline;
+  
+}
+#line2{
+  border: 0;
+  height: 0;
+  box-shadow: 0 0 10px 1px black;
+}
+/*..............................................*/
+footer{
+  width:100%;
+  height:10%;
+  background-color: white;
+}
+ h6{
+   color: brown;
+   display: inline-block;  
+  margin-top: 5em;
+ }
+
+ #phone{
+  margin-left: 10em;
+
+
+ }
+#share{
+  margin-left: 25em;
+}
