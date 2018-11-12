@@ -31,6 +31,15 @@ h4{
 }
 
 /*..............................................*/
+ 
+p{font-size: 1.5em;
+  color:brown;
+ 
+}
+
+label{font-size: 1em;
+color:burlywood;
+}
 
 .main{
   margin-top: 0em;
